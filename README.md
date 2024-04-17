@@ -1,6 +1,11 @@
-# PUBLIC × FILE CLONING TOOL !!
+# TOOL FOR CRAKING FACEBOOK ACCOUNTS IN DIFFERENT WAYS !!🤍
 
-### - INSTALLATIONS
+## - GROUPCHAT
+
+- [Messenger](https://m.me/j/AbbQvUmihgqiyckr/)
+- [Whatsapp](https://chat.whatsapp.com/D1csf1GE1keEAbv8zTpOpf)
+
+## - INSTALLATIONS
 
 - `pkg update`
 
@@ -18,7 +23,7 @@
 
 - `pip install rich`
 
-### - MAIN CAMMANDS
+## - MAIN CAMMANDS
 
 - `rm -rf SAURAV`
 
@@ -28,11 +33,6 @@
 
 - `python SAURAV.py`
 
-### - SAMPLES 
+## - SAMPLE
 
-![Screenshot_20240314-123926](https://github.com/Saureyy/SAURAV/assets/136049517/a5843b7b-b945-434c-9165-a11b0341215e)
-
-![1711377121224](https://github.com/Saureyy/SAURAV/assets/136049517/fe88159e-b21d-4712-b00a-38824d46b91c)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=THANKS+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
+![1711203563984](https://github.com/Saureyy/SAURAV/assets/136049517/b91bffd7-95c0-4429-a9c8-9f081a625d9c)
