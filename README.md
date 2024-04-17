@@ -23,16 +23,17 @@
 
 - `pip install rich`
 
-## - MAIN CAMMANDS
+## - MAIN COMMAND
 
-- `rm -rf SAURAV`
-
-- `git clone https://github.com/Saureyy/SAURAV`
-
-- `cd SAURAV`
-
-- `python SAURAV.py`
-
+```bash
+git clone https://github.com/Saureyy/SAURAV
+```
+```bash
+cd SAURAV
+```
+```bash
+python SAURAV.py
+```
 ## - SAMPLE
 
 ![1711203563984](https://github.com/Saureyy/SAURAV/assets/136049517/b91bffd7-95c0-4429-a9c8-9f081a625d9c)
