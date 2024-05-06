@@ -26,7 +26,7 @@
 ## - MAIN COMMAND
 
 ```bash
-git clone https://github.com/Saureyy/SAURAV
+git clone https://github.com/saureyyxyz/SAURAV
 ```
 ```bash
 cd SAURAV
